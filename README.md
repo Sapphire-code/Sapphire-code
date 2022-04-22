@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm SapphireKR</h1>
 <h3 align="center">A passionate programmer & gamer from earth :)</h3>
 
+- 🌱 I’m currently learning **Python, html, css & etc.**
+
+- 📫 How to reach me **Sorry but you can't reach me.**
+
+- My portfolio [https://sapphire-code.github.io/Portfolio/](https://sapphire-code.github.io/Portfolio/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/sapphirekr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sapphirekr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
