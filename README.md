@@ -3,11 +3,11 @@
 
 <p align="center">
 - 🌱 I’m currently learning **Python, html & css.**
-
+<p align="center">
 - 💬 Ask me about **Advanced python stuff**
-
+<p align="center">
 - 📫 How to reach me **Sorry but you can't reach me(Currently).**
-
+<p align="center">
 - My portfolio [https://sapphire-code.github.io/Portfolio/](https://sapphire-code.github.io/Portfolio/)
 </p>
 <hr>
