@@ -2,13 +2,13 @@
 <h3 align="center">A passionate programmer & gamer from earth :)</h3>
 
 <p align="center">
-- 🌱 I’m currently learning **Python, html & css.**
+- 🌱 <b>I’m currently learning</b>: Python, HTML & CSS
 <p align="center">
-- 💬 Ask me about **Advanced python stuff**
+- 💬 <b>Ask me about</b>: Advanced python stuff
 <p align="center">
-- 📫 How to reach me **Sorry but you can't reach me(Currently).**
+- 📫 <b>How to reach me</b>: Sorry but you can't reach me(Currently).
 <p align="center">
-- My portfolio [https://sapphire-code.github.io/Portfolio/](https://sapphire-code.github.io/Portfolio/)
+- <b>My portfolio</b>: https://sapphire-code.github.io/Portfolio/
 </p>
 <hr>
 <h3 align="center">Connect with me:</h3>
