@@ -1,3 +1,4 @@
+<body style="background-image: https://i.imgur.com/et2YSAp.png;">
 <h1 align="center">Hi 👋, I'm SapphireKR</h1>
 <h3 align="center">A passionate programmer & gamer from earth :)</h3>
 
@@ -26,3 +27,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapphire-code&show_icons=true&locale=en" alt="sapphire-code" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapphire-code&" alt="sapphire-code" /></p>
+</body>
