@@ -1,4 +1,4 @@
-<body style="background-image: https://i.imgur.com/et2YSAp.png;">
+<body style="background-image: url('https://i.imgur.com/et2YSAp.png');">
 <h1 align="center">Hi 👋, I'm SapphireKR</h1>
 <h3 align="center">A passionate programmer & gamer from earth :)</h3>
 
