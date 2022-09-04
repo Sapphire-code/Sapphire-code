@@ -60,13 +60,13 @@
 
 ###
 
-<h4 align="center">Connect with me</h4>
+<h4 align="center">Watch Me on youtube</h4>
 
 ###
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UC18Uhfrkjvhe-JWbz-91gSg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="100" height="80" alt="youtube logo"  />
   </a>
 </div>
 
