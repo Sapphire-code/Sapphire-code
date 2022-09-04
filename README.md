@@ -10,7 +10,6 @@
 
 <h4 align="center">My Tech Stack</h4>
 
-
 ###
 
 <div align="center">
@@ -32,10 +31,7 @@
 
 <br clear="both">
 
-<br>
-<br>
-<br>
-<br>
+<h1 align="center"></h1>
 
 ###
 
@@ -56,10 +52,7 @@
 
 <br clear="both">
 
-<br>
-<br>
-<br>
-<br>
+<h1 align="left"></h1>
 
 ###
 
@@ -81,14 +74,10 @@
 
 <br clear="both">
 
-<br>
-<br>
-<br>
-<br>
+<h1 align="center"></h1>
 
 ###
-<h4 align="center">My Github stats</h4>
-<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sapphire-code" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=sapphire-code" height="150" alt="languages graph"  />
