@@ -56,7 +56,7 @@
 
 ###
 
-<img align="right" height="200" style="border-radius: 50px !important;" src="https://i.imgur.com/6vcVshz.png"  />
+<img align="right" height="200" src="https://i.imgur.com/6vcVshz.png"  />
 
 ###
 
