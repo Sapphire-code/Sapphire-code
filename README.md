@@ -66,7 +66,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UC18Uhfrkjvhe-JWbz-91gSg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="100" height="100" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="100" height="150" alt="youtube logo"  />
   </a>
 </div>
 
