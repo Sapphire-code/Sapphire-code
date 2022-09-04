@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<h1 align="center"></h1>
+<br>
 
 ###
 
@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<h1 align="left"></h1>
+<br>
 
 ###
 
@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-<h1 align="center"></h1>
+<br>
 
 ###
 
