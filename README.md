@@ -84,4 +84,4 @@
 </div>
 
 ###
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?sapphire-code={sapphire-code}&theme=dracula" />
