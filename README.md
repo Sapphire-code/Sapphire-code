@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is SapphireKR and I'm a programmer, from earth :)</h2>
+<h2 align="left">Hi 👋! My name is SapphireKR and I'm a programmer, from earth :)</h2>
 
 ###
 
@@ -19,15 +19,15 @@
 
 ###
 
+<p align="center">Watch me on</p>
+
+###
+
 <div align="center">
   <a href="https://youtube.com/c/sapphirekr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
 
 ###
 
