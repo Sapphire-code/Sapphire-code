@@ -37,4 +37,4 @@
 </div>
 
 ###
-[![SapphireKR's github activity graph](https://activity-graph.herokuapp.com/graph?username=sapphire-code)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sapphire-code&bg_color=282a36&color=ff79c6&line=f8f8f2&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
