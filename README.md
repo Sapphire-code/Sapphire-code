@@ -1,7 +1,9 @@
 <h2 align="center">Hi 👋! My name is SapphireKR.</h2>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=27EC00&center=true&width=435&lines=A+programmer+who+is+passionate+in+CS+%26+AstroPhysics)](https://git.io/typing-svg)
+<p>
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=27EC00&center=true&width=435&lines=A+programmer+who+is+passionate+in+CS+%26+AstroPhysics"></img>
+</p>
 ###
 
 <p align="center">My Tech Stack</p>
