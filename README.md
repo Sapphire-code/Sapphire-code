@@ -1,5 +1,8 @@
-<h2 align="center">Hi 👋! My name is SapphireKR and I'm a programmer, from earth :)</h2>
+<h2 align="center">Hi 👋! My name is SapphireKR.</h2>
 
+<center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&size=15&pause=1000&color=27EC00&width=435&lines=A+programmer+who+is+passionate%2C+in+CS+%26+Astrophysics.)](https://git.io/typing-svg)
+</center>
 ###
 
 <p align="center">My Tech Stack</p>
