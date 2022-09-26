@@ -1,6 +1,12 @@
-<h2 align="center">Hi 👋! My name is SapphireKR.</h2>
+<h1 align="center">Hi 👋! My name is SapphireKR.</h1>
 
+###
 
+<br clear="both">
+
+<div align="center">
+  <img height="70" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=27EC00&center=true&width=435&lines=A+programmer+who+is+passionate+in+CS+%26+AstroPhysics"  />
+</div>
 
 ###
 
@@ -39,4 +45,9 @@
 </div>
 
 ###
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sapphire-code&bg_color=282a36&color=ff79c6&line=f8f8f2&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img height="250" src="https://activity-graph.herokuapp.com/graph?username=sapphire-code&bg_color=282a36&color=ff79c6&line=f8f8f2&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"  />
+</div>
+
+###
