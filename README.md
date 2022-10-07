@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="70" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=27EC00&center=true&width=435&lines=A+programmer+who+is+passionate+in+CS+%26+AstroPhysics"  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&background=FFFF7700&center=true&width=700&lines=A+Programmer+who+is+passionate+in+CS+%26+Astrophysics" alt="Typing SVG" /></a>
 </div>
 
 ###
