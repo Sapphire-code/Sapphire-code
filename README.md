@@ -52,5 +52,6 @@
 
 ###
 <p align="center">Some Nice Quotes:</p>
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="This is a quote you're not able to see for some reason, please check if your internet is slow."></img>
+<p align="center">
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="This is a quote you're not able to see for some reason, please check if your internet is slow."></img></p>
 
