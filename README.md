@@ -38,7 +38,7 @@
 </div>
 
 ###
-
+<p align="center">My Stats</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sapphire-code" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=sapphire-code" height="150" alt="languages graph"  />
@@ -51,7 +51,7 @@
 </div>
 
 ###
-<p align="center">Some Nice Quotes:</p>
+<p align="center">Some Nice Quotes</p>
 <p align="center">
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="This is a quote you're not able to see for some reason, please check if your internet is slow."></img></p>
 
