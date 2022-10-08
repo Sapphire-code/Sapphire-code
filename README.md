@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is SapphireKR. :trollface:</h1>
+<h1 align="center">Hi👋! My name is SapphireKR.</h1>
 
 ###
 
