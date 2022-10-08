@@ -25,7 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="55" alt="markdown logo"  />
 </div>
 
-
+<br>
+<br>
+<br>
 
 <p align="center"><b>Watch me on</b></p>
 
@@ -47,6 +49,9 @@
 <div align="center">
   <img height="250" src="https://activity-graph.herokuapp.com/graph?username=sapphire-code&bg_color=282a36&color=ff79c6&line=f8f8f2&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"  />
 </div>
+
+<br>
+<br>
 
 <p align="center"><b>Some Nice Quotes</b></p>
 <p align="center">
