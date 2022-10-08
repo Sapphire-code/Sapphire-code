@@ -25,11 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="55" alt="markdown logo"  />
 </div>
 
-
+###
 
 <p align="center"><b>Watch me on</b></p>
 
-###
 
 <div align="center">
   <a href="https://youtube.com/c/sapphirekr" target="_blank">
