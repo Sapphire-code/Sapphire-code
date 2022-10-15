@@ -57,4 +57,6 @@
 <p align="center"><b>Some Nice Quotes</b></p>
 <p align="center">
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="This is a quote you're not able to see for some reason, please check if your internet is slow."></img></p>
-
+<p align="center">
+[![@sapphirekr's Holopin board](https://holopin.me/sapphirekr)](https://holopin.io/@sapphirekr)
+</p>
