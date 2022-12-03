@@ -12,10 +12,9 @@
 
 <p align="center"><b>My Tech Stack</b></p>
 
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,vscode,discord,electron,github,md,nodejs,tauri)](https://skillicons.dev)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,py,vscode,discord,electron,github,md,nodejs,tauri" />
+</div>
 
 <br>
 <br>
