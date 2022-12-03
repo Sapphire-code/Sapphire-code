@@ -10,7 +10,7 @@
 
 
 
-<p align="center"><b>My Tech Stack</b></p>
+<p align="center"><b>My Tech Stack(Based on the applications that I have worked on, I may not be proficient in rust and nodejs)</b></p>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,py,vscode,discord,electron,github,md,nodejs,tauri,rust" />
