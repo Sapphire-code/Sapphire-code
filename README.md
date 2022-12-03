@@ -13,7 +13,7 @@
 <p align="center"><b>My Tech Stack</b></p>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,py,vscode,discord,electron,github,md,nodejs,tauri" />
+<img src="https://skillicons.dev/icons?i=html,css,py,vscode,discord,electron,github,md,nodejs,tauri,rust" />
 </div>
 
 <br>
