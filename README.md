@@ -37,10 +37,10 @@
 </div>
 
 
-
-<div align="center">
+<!--Commented this stuff below cuz not working for some reason.-->
+<!--<div align="center">
   <img height="250" src="https://activity-graph.herokuapp.com/graph?username=sapphire-code&theme=dracula" />
-</div>
+</div>-->
 
 <br>
 <br>
