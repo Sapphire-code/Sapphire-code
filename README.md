@@ -45,7 +45,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="202" src="https://holopin.me/sapphirekr"  />
 </div>
 
