@@ -1,53 +1,52 @@
-<h1 align="center">Hi👋! My name is SapphireKR.</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<br clear="both">
+<p align="left">My name is SapphireKR and I'm a programmer, from earth :D</p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&background=FFFF7700&center=true&width=700&lines=A+Programmer+who+is+passionate+in+CS+%26+Astrophysics" alt="Typing SVG" /></a>
+###
+
+<h3 align="left">About me -</h3>
+
+###
+
+<p align="left">✨ Creating bugs since 2019.<br>🔭 I'm currently learning rust.<br>🎯 Goals: become an efficient programmer and pursue astronomy in the future.<br>🎲 Fun fact: I am not that good at computer science, I'm just good at taking different perspectives at problematic code, which allows me to solve issues quickly.</p>
+
+###
+
+<h3 align="left">My Tech Stack -</h3>
+
+###
+
+<div align="left">
+  <img height="50" src="https://skillicons.dev/icons?i=html,css,py,vscode,discord,electron,github,md,tauri,rust"  />
 </div>
 
+###
 
+<h3 align="left">My github statistics -</h3>
 
-<p align="center"><b>My Tech Stack(Based on the applications that I have worked on, I may not be proficient in rust and nodejs)</b></p>
+###
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,py,vscode,discord,electron,github,md,nodejs,tauri,rust" />
-</div>
-
-<br>
-<br>
-<br>
-
-<p align="center"><b>Watch me on</b></p>
-
-
-<div align="center">
-  <a href="https://youtube.com/c/sapphirekr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
-<br>
-<br>
-<p align="center"><b>My Stats</b></p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sapphire-code" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Github Stats&username=sapphire-code" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=sapphire-code" height="150" alt="languages graph"  />
 </div>
 
+###
 
-<!--Commented this stuff below cuz not working for some reason.-->
-<!--<div align="center">
-  <img height="250" src="https://activity-graph.herokuapp.com/graph?username=sapphire-code&theme=dracula" />
-</div>-->
+<div align="left">
+  <img height="200" src="https://github-readme-activity-graph.cyclic.app/graph?username=sapphire-code&theme=dracula"  />
+</div>
 
-<br>
-<br>
+###
 
-<p align="center"><b>Some Nice Quotes</b></p>
-<p align="center">
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="This is a quote you're not able to see for some reason, please check if your internet is slow."></img></p>
+<h3 align="left">My Holopin Board</h3>
 
-<p align="center"><b>My Holopin board</b></p>
-<img src="https://holopin.me/sapphirekr"></img>
+###
+
+<div align="center">
+  <img height="202" src="https://holopin.me/sapphirekr"  />
+</div>
+
+###
