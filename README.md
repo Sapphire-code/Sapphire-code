@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=sapphire-code" height="150" alt="languages graph"  />
 </div>
 
-
+<br>
 
 <div align="left">
   <img height="200" src="https://github-readme-activity-graph.cyclic.app/graph?username=sapphire-code&theme=dracula"  />
