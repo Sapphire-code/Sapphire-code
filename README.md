@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019.<br>🔭 I'm currently learning rust.<br>🎯 Goals: become an efficient programmer and pursue astronomy in the future.<br>🎲 Fun fact: I am not that good at computer science, I'm just good at taking different perspectives at problematic code, which allows me to solve issues quickly.</p>
+<p align="left">✨ Creating bugs since 2019.<br>🔭 I'm currently learning rust.<br>🎯 Goals: become an efficient programmer and pursue astronomy in the future.<br>🎲 Fun fact: I am not that good at computer science, I'm just good at taking different perspectives at problematic code, which allows me to solve issues quickly.<br>⚠️my coding skills are kinda mid.</p>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left">My Holopin Board</h3>
+<h3 align="left">My Holopin Board - </h3>
 
 ###
 
