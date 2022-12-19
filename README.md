@@ -49,8 +49,9 @@
   <img height="202" src="https://holopin.me/sapphirekr"  />
 </div>
 
+<h3 align="left">Here are some jokes for you to enjoy 😂</h3>
+
 <div align="left">
-  <p>Here are some jokes for you to enjoy 😂</p>
   <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 </div>
 
