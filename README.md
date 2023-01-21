@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img height="50" src="https://skillicons.dev/icons?i=html,css,py,vscode,discord,electron,github,md,tauri,rust,git"  />
+  <img height="50" src="https://skillicons.dev/icons?i=html,css,py,vscode,discord,github,md,rust,git"  />
 </div>
 
 ###
