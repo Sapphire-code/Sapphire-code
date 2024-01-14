@@ -35,9 +35,6 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://github-readme-activity-graph.cyclic.app/graph?username=sapphire-code&theme=dracula"  />
-</div>
 
 ###
 
